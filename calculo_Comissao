@@ -10,7 +10,7 @@
 
 <body class="container">
 
-    <h1 class="text-center">Calcula a Comissão</h1>
+    <h1 class="text-center">Calcula a Comissão dos Funcionários</h1>
     <h3>Hacktoberfest</h3>
     
     <form method="GET">
