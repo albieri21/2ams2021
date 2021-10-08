@@ -10,8 +10,8 @@
 
 <body class="container">
 
-    <h1 class="text-center">Calcula a Comissão dos Vendedores</h1>
-    <hr>
+    <h1 class="text-center">Calcula a Comissão</h1>
+    <h3>Hacktoberfest</h3>
     
     <form method="GET">
         
@@ -36,7 +36,9 @@
         <input class="form-control form-control-lg" type="text" name="txtcomissao" placeholder="Comissão">
         <br>
         
-        <button type="submit" class="btn btn-danger">Calcular</button>
+        <button type="submit" class="btn btn-danger">Calcular</button>  
+        <button type="submit" class="btn btn-danger">Limpar</button>
+         <button type="submit" class="btn btn-danger">Cancelar</button>
         
     </form>
 
